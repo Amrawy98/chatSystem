@@ -1,17 +1,16 @@
-# README
+# A Chatting System built with ruby on rails
+## Installation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+```bash
+    git clone https://github.com/Amrawy98/chatSystem.git
+```
 
-Things you may want to cover:
+You should now have a chatSystem directory.
 
-## Ruby and Rails versions
-    Ruby 2.7.5, Rails 5.2.7
-## System dependencies
-    Mysql 5.7 
-## Deployment instructions
-    run in terminal
-    ```bash 
+using docker-compose inside the directory:
+```bash
     docker-compose up
-    ``` 
-    
+```
+The backend is now running on localhost:9999
+### API Documentation
+https://documenter.getpostman.com/view/6978024/Uyr5nyqG
